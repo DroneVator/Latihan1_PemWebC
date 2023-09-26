@@ -1,0 +1,14 @@
+.table {
+    width: 40%;
+    margin: 20px left;
+    background: gold;
+    font-weight: bold;
+    text-align: center;
+}
+
+th tr td {
+   border: 1px solid black;
+   padding: 5px;
+   background-color: gold;
+   color: black;
+}
